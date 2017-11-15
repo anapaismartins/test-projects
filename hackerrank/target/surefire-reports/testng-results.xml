@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="720" started-at="2017-11-15T23:46:11Z" finished-at="2017-11-15T23:46:12Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="720" started-at="2017-11-15T23:46:11Z" finished-at="2017-11-15T23:46:12Z">
+      <class name="com.hackerrank.anokas4.BotSavesPrincess2Test">
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincess2Test@2d209079]" name="initTestVariables" is-config="true" duration-ms="181" started-at="2017-11-15T23:46:11Z" finished-at="2017-11-15T23:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testBotSavesPrincess(java.lang.String, java.lang.String)[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincess2Test@2d209079]" name="testBotSavesPrincess" duration-ms="18" started-at="2017-11-15T23:46:11Z" data-provider="BotSavesPrincess2TestDataProvider" finished-at="2017-11-15T23:46:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/BotSavesPrincess2/test_2.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBotSavesPrincess -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincess2Test@2d209079]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:11Z" finished-at="2017-11-15T23:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testBotSavesPrincess(java.lang.String, java.lang.String)[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincess2Test@2d209079]" name="testBotSavesPrincess" duration-ms="4" started-at="2017-11-15T23:46:11Z" data-provider="BotSavesPrincess2TestDataProvider" finished-at="2017-11-15T23:46:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/BotSavesPrincess2/test_1.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LEFT]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBotSavesPrincess -->
+      </class> <!-- com.hackerrank.anokas4.BotSavesPrincess2Test -->
+      <class name="com.hackerrank.anokas4.BotSavesPrincessTest">
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincessTest@6bdf28bb]" name="initTestVariables" is-config="true" duration-ms="1" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testBotSavesPrincess(java.lang.String)[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincessTest@6bdf28bb]" name="testBotSavesPrincess" duration-ms="4" started-at="2017-11-15T23:46:12Z" data-provider="botSavesPrincessTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/BotSavesPrincess/test_1.txt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBotSavesPrincess -->
+        <test-method status="PASS" signature="testBotSavesPrincess(java.lang.String)[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincessTest@6bdf28bb]" name="testBotSavesPrincess" duration-ms="3" started-at="2017-11-15T23:46:12Z" data-provider="botSavesPrincessTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/BotSavesPrincess/test_2.txt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBotSavesPrincess -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.BotSavesPrincessTest@6bdf28bb]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+      </class> <!-- com.hackerrank.anokas4.BotSavesPrincessTest -->
+      <class name="com.hackerrank.anokas4.SurfaceAreaTest">
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.SurfaceAreaTest@2752f6e2]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testSurfaceArea(java.lang.String, java.lang.Long)[pri:0, instance:com.hackerrank.anokas4.SurfaceAreaTest@2752f6e2]" name="testSurfaceArea" duration-ms="5" started-at="2017-11-15T23:46:12Z" data-provider="SurfaceAreaTestsDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/SurfaceArea/test_3.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSurfaceArea -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.SurfaceAreaTest@2752f6e2]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testSurfaceArea(java.lang.String, java.lang.Long)[pri:0, instance:com.hackerrank.anokas4.SurfaceAreaTest@2752f6e2]" name="testSurfaceArea" duration-ms="3" started-at="2017-11-15T23:46:12Z" data-provider="SurfaceAreaTestsDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/SurfaceArea/test_2.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSurfaceArea -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.SurfaceAreaTest@2752f6e2]" name="initTestVariables" is-config="true" duration-ms="1" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testSurfaceArea(java.lang.String, java.lang.Long)[pri:0, instance:com.hackerrank.anokas4.SurfaceAreaTest@2752f6e2]" name="testSurfaceArea" duration-ms="2" started-at="2017-11-15T23:46:12Z" data-provider="SurfaceAreaTestsDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/SurfaceArea/test_1.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSurfaceArea -->
+      </class> <!-- com.hackerrank.anokas4.SurfaceAreaTest -->
+      <class name="com.hackerrank.anokas4.LuckyPurchaseTest">
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="initTestVariables" is-config="true" duration-ms="2" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testLuckyPurchase(java.lang.String, java.lang.String)[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="testLuckyPurchase" duration-ms="96" started-at="2017-11-15T23:46:12Z" data-provider="LuckyPurchaseTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/LuckyPurchase/test_2.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLuckyPurchase -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="initTestVariables" is-config="true" duration-ms="1" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testLuckyPurchase(java.lang.String, java.lang.String)[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="testLuckyPurchase" duration-ms="7" started-at="2017-11-15T23:46:12Z" data-provider="LuckyPurchaseTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/LuckyPurchase/test_1.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BestBook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLuckyPurchase -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testLuckyPurchase(java.lang.String, java.lang.String)[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="testLuckyPurchase" duration-ms="7" started-at="2017-11-15T23:46:12Z" data-provider="LuckyPurchaseTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/LuckyPurchase/test_4.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Book7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLuckyPurchase -->
+        <test-method status="PASS" signature="testLuckyPurchase(java.lang.String, java.lang.String)[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="testLuckyPurchase" duration-ms="5" started-at="2017-11-15T23:46:12Z" data-provider="LuckyPurchaseTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/LuckyPurchase/test_3.txt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TheBook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLuckyPurchase -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.LuckyPurchaseTest@6b71769e]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+      </class> <!-- com.hackerrank.anokas4.LuckyPurchaseTest -->
+      <class name="com.hackerrank.anokas4.TripleRecursionTest">
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.TripleRecursionTest@e580929]" name="initTestVariables" is-config="true" duration-ms="2" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testBotSavesPrincess(java.lang.String)[pri:0, instance:com.hackerrank.anokas4.TripleRecursionTest@e580929]" name="testBotSavesPrincess" duration-ms="4" started-at="2017-11-15T23:46:12Z" data-provider="TripleRecursionTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/TripleRecursion/test_1.txt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBotSavesPrincess -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.TripleRecursionTest@e580929]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+        <test-method status="PASS" signature="testBotSavesPrincess(java.lang.String)[pri:0, instance:com.hackerrank.anokas4.TripleRecursionTest@e580929]" name="testBotSavesPrincess" duration-ms="4" started-at="2017-11-15T23:46:12Z" data-provider="TripleRecursionTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/TripleRecursion/test_2.txt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBotSavesPrincess -->
+        <test-method status="PASS" signature="testBotSavesPrincess(java.lang.String)[pri:0, instance:com.hackerrank.anokas4.TripleRecursionTest@e580929]" name="testBotSavesPrincess" duration-ms="4" started-at="2017-11-15T23:46:12Z" data-provider="TripleRecursionTestDataProvider" finished-at="2017-11-15T23:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[/Users/anamartins/Desktop/developersDoItBest/workspace/hackerrank/src/test/resources/TripleRecursion/test_3.txt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBotSavesPrincess -->
+        <test-method status="PASS" signature="initTestVariables()[pri:0, instance:com.hackerrank.anokas4.TripleRecursionTest@e580929]" name="initTestVariables" is-config="true" duration-ms="0" started-at="2017-11-15T23:46:12Z" finished-at="2017-11-15T23:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTestVariables -->
+      </class> <!-- com.hackerrank.anokas4.TripleRecursionTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
